@@ -1,0 +1,2 @@
+- 2 clients, des classe? de fonctions?
+- 1 server
